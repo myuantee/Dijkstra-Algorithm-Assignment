@@ -15,4 +15,4 @@ Each line represent an edges, with a sequence of Planet 1 and Planet 2. \
 6: Planet G \
 7: Planet H \
 8: Planet I \
-9: Planet J \
+9: Planet J 
